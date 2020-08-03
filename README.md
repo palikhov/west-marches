@@ -16,6 +16,10 @@ In order to avoid any misunderstandings, these are the expectations for all peop
 4. **Have fun.** This game is about exploring imagination. Have fun with it.
 5. **Share the spotlight.** It is easy to lose sight that this is a game of cooperation. Every character brings something unique to the party, and we should embrace and encourage that.
 
+## Setting
+
+This takes place in a homebrew setting. More details on this will follow soon!
+
 ## How to start a character
 
 Start by submitting [a character issue](issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
