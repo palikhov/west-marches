@@ -22,15 +22,15 @@ This takes place in a homebrew setting. More details on this will follow soon!
 
 ## How to start a character
 
-Start by submitting [a character issue](issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
+Start by submitting [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
 
-After that's is completed and approved, [create a wiki page](wiki/_new) with your character information.
+After that's is completed and approved, [create a wiki page](https://github.com/our-stories/west-marches/wiki/_new) with your character information.
 
 You are welcome to create as many characters as you would like, but you can only choose a single character for each session.
 
 ## How to schedule a session
 
-Each session will need to be scheduled. For every session, a player in the party should [begin a session issue](issues/new?assignees=&labels=session&template=session.md&title=Session%3A+SOMETHING+WITTY) filling out as many details as possible.
+Each session will need to be scheduled. For every session, a player in the party should [begin a session issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=session&template=session.md&title=Session%3A+SOMETHING+WITTY) filling out as many details as possible.
 
 Each session can only have between 2-4 players (excluding the Game Master). Once the scheduling details are sorted out, the Game Master will offer a couple places for explorations. If this is the first time the characters have met each other, the party can use the issue comments to role play introductions. That way we can dive into the exploration early in the session.
 
