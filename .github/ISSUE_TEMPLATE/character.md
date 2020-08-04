@@ -46,6 +46,6 @@ _Even though other players can read your character's background, their character
 
 ## Potential Plot Hooks
 
-_People are flawed. Not even you dear adventurer are perfect! Has your character pissed someone off? Are they outlawed from a certain town for a... misunderstanding? Do they struggle to overcome something?_
+_People are flawed. Not even you dear adventurer are perfect! Has your character pissed someone off? Are they outlawed from a certain town for a... misunderstanding? Do they struggle to overcome something: a paranoia, a physical limitation, an addiction?_ 
 
-_A paranoia, a physical limitation, an addiction? This is entirely optional, but depending on the flare the approving GM may award an XP bonus while your character struggles with their demons._
+_This is entirely optional, but depending on the flare the approving GM may award an XP bonus while your character struggles with their demons._
