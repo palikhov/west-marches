@@ -23,7 +23,7 @@ _Please include a link to your publicly readable character sheet. https://www.dn
 
 ## Appearance:
 
-_Description of the character that others would notice if they met them. Distinguishing tattoos, markings, mannerisms, voice. Flesh this out as much as you can. This won't be set in stone._
+_What does someone see when they glance at your character? Do they even notice them? What impressions does your character give when speaking? When they're pissed?_
 
 **Age:**
 
@@ -40,4 +40,12 @@ _Description of the character that others would notice if they met them. Disting
 
 ## Backstory
 
-_Your character wasn't born yesterday. Where did they come from? What have they struggled with in the past? Even though other players can read your character's background, their characters won't act on it unless it is shared with them in game._
+_Your character wasn't born yesterday. Where did they come from? Have they raised themselves from the gutters as a child? Were they pampered among the highest royalty? Who the hell is your character?_
+
+_Even though other players can read your character's background, their characters won't act on it unless it is shared with them in game._
+
+## Potential Plot Hooks
+
+_People are flawed. Not even you dear adventurer are perfect! Has your character pissed someone off? Are they outlawed from a certain town for a... misunderstanding? Do they struggle to overcome something?_
+
+_A paranoia, a physical limitation, an addiction? This is entirely optional, but depending on the flare the approving GM may award an XP bonus while your character struggles with their demons._
