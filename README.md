@@ -48,6 +48,12 @@ After a session ends, every character that participated needs to submit a short 
 
 Experience points (XP) will be awarded to all characters to track on their characters. Updates to the character's wiki are appreciated as it will help us for new sessions.
 
+## I have thoughts that I would prefer to share anonymously
+
+I totally get it. If you don't feel comfortable sharing opinions through issues, please submit it through [this anonymous online tool](http://freesuggestionbox.com/pub/hxezqqw).
+
+I will periodically go through them and address important and/or common themes as they come up.
+
 ## I want to help!
 
 I would love help! The more the players engage, the better the games will be!
