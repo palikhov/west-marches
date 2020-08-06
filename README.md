@@ -16,9 +16,30 @@ In order to avoid any misunderstandings, these are the expectations for all peop
 4. **Have fun.** This game is about exploring imagination. Have fun with it.
 5. **Share the spotlight.** It is easy to lose sight that this is a game of cooperation. Every character brings something unique to the party, and we should embrace and encourage that.
 
-## Setting
+## Setting: Waldenstone
 
-This takes place in a homebrew setting. More details on this will follow soon!
+This takes place in a homebrew setting. That may change over time.
+
+Welcome to Waldenstone. A mid-sized town surrounded by the ruthless wilderness.
+
+It's surprising that Waldenstone still survives. Luckily they are not fully cut off from the outside world by regular merchant wagons that tempt fate on the Main Road: the only road in and out of town and to the civilized world beyond.
+
+You would think that being built near the Lucidean Ocean that more seafaring traffic would come in and out. However professional pirates and worse lurk the waters making it more treacherous than the hidden underwater caverns and formations ready to scuttle a ship. Or leave it helpless until the aforementioned threats have a chance.
+
+The citizens of Waldenston are hardworking and stubborn. They have to be both to survive on their own as they do. Mostly focusing on farming, mining, and crafting for other locals, they have found a self-sustaining harmony with the menaces beyond the town's borders.
+
+Magic users exist, if uncommon. Many clerics and wizards have setup shop to hawk their wares or be of service to the people. And of course magic users will travel through with their eyes on rare mystic reagents. Some known only to this region.
+
+The Wilderness has begun stirring. And although the sensible townsfolk keep watch and lock their doors at night, that hasn't been enough. Merchants have taken word out beyond Waldenstone to share stories of creatures antagonising the peaceful folk, and their trade. Not that it's entirely altruistic. The safer the roads, the more merchants can bring their wares. And more money they can pocket.
+
+### FAQ
+
+* **What is the tone?** Of all the questions, this is the most important one. The **tone for this game is to have fun!** Fun doesn't not always mean silliness. It does not always mean stressful deadly situations. But it can mean both sometimes. The tone will need to be decided in every session because it's up to the party to decide. As a GM, I prefer to take this lighthearted to start with. We are here to have fun, so let's have fun. Seriousness will come in time, if it ever does.
+* **What's the primary setting, location and adventure type?** This is set in a frontier town cut off from many external connections. The surrounding area is wild and ruthless.
+* **How are the party members connected?** That's up to you dear Players! YOU decide who and why you are connected. In the beginning of each session, that will be something a GM asks the party to figure out in the issue before we meet.
+* **What's magic like in the setting?** Magic is not unheard of. But it is not so common that a magical item is a treasured heirloom. Magic users do exist and setup shops and research facilities across the world. Waldenstone has fewer options...for now.
+* **How old is the world?** Waldenstone lives in an ancient world. Many long lived races remember legendary civilizations that have long since perished. And yet, they have heard the myths of many more that have long been forgotten to even their forebears.
+* **What is the scale of the game?** This is really open ended. The nature of a West Marches game does lend itself to be centered around Waldenstone. This is not a normal campaign that has the luxury to delve into nuanced areas...Yet. Perhaps it will change.
 
 ## How to start a character
 
