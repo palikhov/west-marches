@@ -2,7 +2,7 @@
 name: New character
 about: Introduce a character to the story
 title: 'Character: NAME OF CHARACTER'
-labels: 'character,unapproved'
+labels: 'character,needs-approval'
 assignees: ''
 
 ---
