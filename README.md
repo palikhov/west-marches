@@ -40,7 +40,7 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 * **What's magic like in the setting?** Magic is not unheard of. But it is not so common that a magical item is a treasured heirloom. Magic users do exist and setup shops and research facilities across the world. Waldenstone has fewer options...for now.
 * **How old is the world?** Waldenstone lives in an ancient world. Many long lived races remember legendary civilizations that have long since perished. And yet, they have heard the myths of many more that have long been forgotten to even their forebears.
 * **What is the scale of the game?** This is really open ended. The nature of a West Marches game does lend itself to be centered around Waldenstone. This is not a normal campaign that has the luxury to delve into nuanced areas...Yet. Perhaps it will change.
-* **Is there some sort of chat I can join?** You betcha. I would prefer most permanent lore/session/character chatter end up here on GitHub. But for realtime chat, feel free to join us on [discord](https://discord.gg/7xa32K).
+* **Is there some sort of chat I can join?** You betcha. I would prefer most permanent lore/session/character chatter end up here on GitHub. But for realtime chat, feel free to join us on [discord](https://discord.gg/m8fu5US).
 
 ## How to start a character
 
