@@ -18,9 +18,9 @@ In order to avoid any misunderstandings, these are the expectations for all peop
 
 ## Setting: Waldenstone
 
-This takes place in a homebrew setting. That may change over time.
+_This game takes place in a homebrew territory within [Exandria](https://criticalrole.fandom.com/wiki/Exandria) from [Critical Role](https://critrole.com/)._
 
-Welcome to Waldenstone. A mid-sized town surrounded by the ruthless wilderness.
+Welcome to Waldenstone. A mid-sized town surrounded by the ruthless Wilderness.
 
 It's surprising that Waldenstone still survives. Luckily they are not fully cut off from the outside world by regular merchant wagons that tempt fate on the Main Road: the only road in and out of town and to the civilized world beyond.
 
@@ -40,6 +40,7 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 * **What's magic like in the setting?** Magic is not unheard of. But it is not so common that a magical item is a treasured heirloom. Magic users do exist and setup shops and research facilities across the world. Waldenstone has fewer options...for now.
 * **How old is the world?** Waldenstone lives in an ancient world. Many long lived races remember legendary civilizations that have long since perished. And yet, they have heard the myths of many more that have long been forgotten to even their forebears.
 * **What is the scale of the game?** This is really open ended. The nature of a West Marches game does lend itself to be centered around Waldenstone. This is not a normal campaign that has the luxury to delve into nuanced areas...Yet. Perhaps it will change.
+* **Is there some sort of chat I can join?** You betcha. I would prefer most permanent lore/session/character chatter end up here on GitHub. But for realtime chat, feel free to join us on [discord](https://discord.gg/7xa32K).
 
 ## How to start a character
 
