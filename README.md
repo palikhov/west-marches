@@ -32,6 +32,8 @@ Magic users exist, if uncommon. Many clerics and wizards have setup shop to hawk
 
 The Wilderness has begun stirring. And although the sensible townsfolk keep watch and lock their doors at night, that hasn't been enough. Merchants have taken word out beyond Waldenstone to share stories of creatures antagonising the peaceful folk, and their trade. Not that it's entirely altruistic. The safer the roads, the more merchants can bring their wares. And more money they can pocket.
 
+**Will you step up in their time of need? Will you take advantage of the situation? Will you leave your mark on Waldenstone?**
+
 ### FAQ
 
 * **What is the tone?** Of all the questions, this is the most important one. The **tone for this game is to have fun!** Fun doesn't not always mean silliness. It does not always mean stressful deadly situations. But it can mean both sometimes. The tone will need to be decided in every session because it's up to the party to decide. As a GM, I prefer to take this lighthearted to start with. We are here to have fun, so let's have fun. Seriousness will come in time, if it ever does.
