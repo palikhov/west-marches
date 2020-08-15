@@ -22,6 +22,8 @@ _This game takes place in a homebrew territory within [Exandria](https://critica
 
 Welcome to Waldenstone. A mid-sized town surrounded by the ruthless Wilderness.
 
+![](waldenstone.jpg)
+
 It's surprising that Waldenstone still survives. Luckily they are not fully cut off from the outside world by regular merchant wagons that tempt fate on the Main Road: the only road in and out of town and to the civilized world beyond.
 
 You would think that being built near the Lucidean Ocean that more seafaring traffic would come in and out. However professional pirates and worse lurk the waters making it more treacherous than the hidden underwater caverns and formations ready to scuttle a ship. Or leave it helpless until the aforementioned threats have a chance.
