@@ -62,7 +62,7 @@ Expectations for a session:
 
 * **Be 15 minutes early.** This helps the party start on time.
 * **Video chat is required.** We will use audio **and** video for our session.
-* **Sessions will be recorded.** The party will decide whether the session's recording will be public or private.
+* **Sessions may be recorded.** The party will decide whether the session's recorded and will be public or private.
 
 ## After a session ends
 
@@ -94,5 +94,5 @@ There are many ways to contribute. You don't need to ask permission, just dive i
 
 * **How do characters level up?** Characters need to take a full rest in order to level up. They do not need to be back in a town.
 * **Why is video necessary?** Playing RPGs online can be tough over voice-only. It's tough to gauge when other people are ready to jump in. In addition, leaning on imagination can make folks feel self-conscious and sometime silly. Seeing other's reactions helps with comraderie.
-* **Why are recordings necessary?** The unpredictable nature of West Marches can make it harder to remember where the party left off. Also this game is welcoming to people new to RPGs, and watching the recordings help people understand what to expect.
+* **Why are recordings?** The unpredictable nature of West Marches can make it harder to remember where the party left off. Also this game is welcoming to people new to RPGs, and watching the recordings help people understand what to expect. With multiple GMs, it's also helpful to share and review what happened in other sessions.
 * **Can we have 2-3 of XYZ class in a party?** Hell yeah you can! I consider _balanced parties boring._ How cool would the story be with a party of wizards? Or bards? The party will need to adjust their strategies, but balanced parties are **not** a requirement. Or even encouraged.
