@@ -96,7 +96,7 @@ There are many ways to contribute. You don't need to ask permission, just dive i
 
 ## FAQ
 
-* **You have any other resources?** You [bet we do](https://www.dndbeyond.com/).
+* **You have any other resources?** You [bet we do](https://github.com/our-stories/west-marches/wiki/Player-and-GM-Resources).
 * **How do characters level up?** Characters need to take a full rest in order to level up. They do not need to be back in a town.
 * **Why is video necessary?** Playing RPGs online can be tough over voice-only. It's tough to gauge when other people are ready to jump in. In addition, leaning on imagination can make folks feel self-conscious and sometime silly. Seeing other's reactions helps with comraderie.
 * **Why are recordings?** The unpredictable nature of West Marches can make it harder to remember where the party left off. Also this game is welcoming to people new to RPGs, and watching the recordings help people understand what to expect. With multiple GMs, it's also helpful to share and review what happened in other sessions.
