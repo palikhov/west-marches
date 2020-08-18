@@ -11,11 +11,11 @@ There aren't hard and fast restrictions for character creation. Generally speaki
 Guideline is to use point buy, or to roll ability scores using 4d6, drop lowest 6 times. If total ability mod is less than 2, the player may choose to reroll all scores. Rolling can be done publicly in the Discord server's rolls channel, or on the honor system.
 
 ## Step-by-step characters
-This is intended to help guide character creation for a PC in a long-running campaign. The player should use “Step By Step Characters” on pg. 11 of the Player’s Handbook to come up with a general character concept (race, class, one sentence backstory at minimum) and then put that concept through the following checklist, considering each bullet point carefully and modifying the character concept accordingly. Once step 1-5 are completed, the character concept should be presented in a session 0 where the concept will be work-shopped by the DM/party members.
+This is intended to help guide character creation for a PC in a long-running campaign. The player should use “Step By Step Characters” on pg. 11 of the Player’s Handbook to come up with a general character concept (race, class, one sentence backstory at minimum) and then put that concept through the following checklist, considering each bullet point carefully and modifying the character concept accordingly. 
 *Note: It is ok for your character concept to morph once you begin to get a feel for them during actual gameplay. By following this checklist, you ensure that your character concept will at least survive first contact with the game itself and the rest of the party while not being too shallow or too over-developed to break the immersion of your gaming group.*
 
 **1. Choose a Race**
-- Ask the DM how the race fits into the world (and if it does), along with social standing, how they are perceived by commoners, etc.
+- Think about how the race fits into the world (and if it does), along with social standing, how they are perceived by commoners, etc.
 - Does my race fit the tone/alignment/setting of the campaign? (E.G. how would normal villagers react to my race?) The race selection should provide a backdrop to the character’s place in the world but should not be the defining characteristics of the character.
 
 **2. Choose a Class and Proficiencies**
