@@ -48,7 +48,7 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 
 ## How to start a character
 
-1. See the [character creation guidelines](character%20creation%20guidelines.md) for building a character.
+1. See the character creation guidelines (coming soon) for building a character.
 
 2. Submit [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
 
