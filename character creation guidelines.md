@@ -12,7 +12,7 @@ Guideline is to use point buy, or to roll ability scores using 4d6, drop lowest 
 
 ## Step-by-step characters
 This is intended to help guide character creation for a PC in a long-running campaign. The player should use “Step By Step Characters” on pg. 11 of the Player’s Handbook to come up with a general character concept (race, class, one sentence backstory at minimum) and then put that concept through the following checklist, considering each bullet point carefully and modifying the character concept accordingly. Once step 1-5 are completed, the character concept should be presented in a session 0 where the concept will be work-shopped by the DM/party members.
-*Note: It is ok for your character concept to morph once you begin to get a feel for them during actual gameplay. By following this checklist, you ensure that your character concept will at least survive first contact with the game itself and the rest of the party while not being too shallow or too over-developed to break the immersion of your gaming group.
+*Note: It is ok for your character concept to morph once you begin to get a feel for them during actual gameplay. By following this checklist, you ensure that your character concept will at least survive first contact with the game itself and the rest of the party while not being too shallow or too over-developed to break the immersion of your gaming group.*
 
 **1. Choose a Race**
 - Ask the DM how the race fits into the world (and if it does), along with social standing, how they are perceived by commoners, etc.
@@ -21,10 +21,10 @@ This is intended to help guide character creation for a PC in a long-running cam
 **2. Choose a Class and Proficiencies**
 - What niche or niches in the party is my character trying to fill? (E.G. Tank, Healer, Ranged DPS, Melee DPS, Controller, Face, Etc.)
 - How does my character interact with the three pillars of gameplay? Ask yourself what interests your character with regards to:
-- Exploration (E.G. Interested in magical artifacts and loves to discover who made them 		and how they work)
+- Exploration (E.G. Interested in magical artifacts and loves to discover who made them and how they work)
 - Social (E.G. Likes using intellect over charm in most social situations and can be stand-offish)
--Combat (E.G. Generally uses spells to assist the party without doing direct damage)
-Based on what you said above, pencil in some skill proficiencies/class 		features/languages/or tool proficiencies that assist those interactions and support the 		character concept. 
+- Combat (E.G. Generally uses spells to assist the party without doing direct damage)
+Based on what you said above, pencil in some skill proficiencies/class features/languages/or tool proficiencies that assist those interactions and support the character concept. 
 - Do my character’s chosen proficiencies match my character concept/backstory?
 
 **3. Determine Ability Scores**
@@ -40,17 +40,17 @@ Ask yourself “Do my character’s Ideals match their alignment?”
 - A character’s Bond should describe something that they value over everything else. A character should prioritize fulfilling their Bond over any other decision. Ask yourself “does my character’s Bond fit the tone of the world/campaign and give the DM an interesting hook to use to motivate them to take action?” (E.G. a character whose Bond is "Everything I do is for the common people" should prioritize thwarting a Gnoll attack on a group of refugees over finishing the parties’ quest to escort a rich merchant’s caravan)
 - A characters Flaw should be something that motivates the player to act against their own best interests. Ideally, the flaw will be fun and add flavor to the character without being distracting or annoying to the other players or the DM. (E.G. Overconfidence, Spends too much money, Easily Angered, etc.) Ask yourself “Is my character’s Flaw fun without being annoying or disruptive to the DM or my fellow party members?”
 - Imagine your Personality Traits, Ideals, Bond, and Flaws and then imagine how your character would react in mundane situations such as:
-- buying items in a market
-- being cheated by a merchant
-- being fired from a job
-- going to a healer for treatment, etc.
+  - buying items in a market
+  - being cheated by a merchant
+  - being fired from a job
+  - going to a healer for treatment, etc.
 
 **4a. Backstory**
 A character’s backstory should be a brief story that informs the characters personality, upbringing, connections, skill sets, past jobs, personality traits, and what caused them to seek the life of an adventurer. A backstory is NOT a ten page story about the character’s past exploits. A good backstory should include the bare minimum information that set a character to adventuring while not containing events that are more monumental than a first level character will experience in-game. Ask yourself the following questions:
 - What is my character's reason for becoming an adventurer?
 - What would my character do if they achieved the goal that set them to adventuring? Would they continue to adventure or retire?
 - Is my character’s backstory in-line with their starting level/tier of play? (E.G. playing a famous warlord who overthrew an empire does not make sense for the backstory for a 1st level character)
--Is there room for my character to grow and develop over the course of the upcoming adventure or did I accidentally create a fully-formed static character?
+- Is there room for my character to grow and develop over the course of the upcoming adventure or did I accidentally create a fully-formed static character?
 - Is my character concept one-note or a "joke" character that does not allow for meaningful interaction with the three pillars of gameplay? 
 
 **5. Choose Equipment**
