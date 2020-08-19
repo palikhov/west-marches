@@ -1,15 +1,12 @@
 # Character Wiki Pages
 Here's a loose outline for the sections of a wiki article on a player character.
 
-# Example Wiki page
+# Gemtin Rockfell ♂
+Character sheet (Link here to a [DnD Beyond](https://www.dndbeyond.com) character sheet)
 
-**Name:** e.g. Gemtin Rockfell
-
-* Race (and subraces if any):
-* Class(es) w/Levels:
-* Alignment:
-
-**Character sheet:** <Link here to a [DnD Beyond](https://www.dndbeyond.com) character sheet>
+* Race (and subraces if any): 
+* Class(es) w/Levels: 
+* Alignment: 
 
 ## Appearance:
 
