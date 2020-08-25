@@ -11,4 +11,4 @@ assignees: ''
 - [ ] Make a character sheet on [DndBeyond](www.dndbeyond.com) [fill in link here]
 - [ ] Develop a character concept further - See [Step by Step Characters](step%20%20by%20characters.md)
 - [ ] Create connections and interact with other characters / players in the community within this issue
-[ ] Join or organize a Session
+- [ ] Join or organize a Session
