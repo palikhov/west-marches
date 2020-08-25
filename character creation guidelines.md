@@ -6,7 +6,7 @@ The character sheets here do not require background or appearance information, a
 
 ## Character level
 You can create a character at any level, but it is at the GMs discretion to run games for the character levels they feel comfortable with.
-General guideline is to create a character between levels 1 and 3.
+General guideline is to create a character between levels 1 and 3 or at a level that roughly matches other character's levels you wish to play with.
 
 ## Restrictions
 There aren't hard and fast restrictions for character creation. Generally speaking, all official source books are allowed.
