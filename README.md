@@ -46,34 +46,18 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 * **What is the scale of the game?** This is really open ended. The nature of a West Marches game does lend itself to be centered around Waldenstone. This is not a normal campaign that has the luxury to delve into nuanced areas...Yet. Perhaps it will change.
 * **Is there some sort of chat I can join?** You betcha. I would prefer most permanent lore/session/character chatter end up here on GitHub. But for realtime chat, feel free to join us on [discord](https://discord.gg/m8fu5US).
 
-## How to start a character
+## Questions?
 
-1. See the character creation guidelines (coming soon) for building a character.
+Check out the [docs folder](docs/) for documentation on:
 
-2. Submit [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
+* [How to create a character](docs/how-do-i/create-a-character.md)
+* [How to schedule a session](docs/how-do-i/schedule-a-session.md)
+* [Giving Feedback]()
+* [Experience and Levels]()
+* [Contributing]()
+* []()
+* []()
 
-3. After that's is completed and approved, [create a wiki page](https://github.com/our-stories/west-marches/wiki/_new) with your character information.
-
-You are welcome to create as many characters as you would like, but you can only choose a single character for each session.
-
-## How to schedule a session
-
-Each session will need to be scheduled. For every session, a player in the party should [begin a session issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=session&template=session.md&title=Session%3A+SOMETHING+WITTY) filling out as many details as possible.
-
-Each session can only have between 2-4 players (excluding the Game Master). Once the scheduling details are sorted out, the Game Master will offer a couple places for explorations. If this is the first time the characters have met each other, the party can use the issue comments to role play introductions. That way we can dive into the exploration early in the session.
-
-If the party is scheduling a continuation from a previous session, include a link and details where the party left off. Continuations do not need the same party composition as long as 2/3rd of players from the previous session are okay with it continuing.
-
-Expectations for a session:
-
-* **Be 15 minutes early.** This helps the party start on time. It's also fun to break the ice. The game will go a lot smoother.
-* **Video chat is required.** We will use audio **and** video for our session.
-
-## After a session ends
-
-After a session ends, every character that participated needs to submit a short recap of the session from their character's point of view. A few sentences will do.
-
-Experience points (XP) will be awarded to all characters to track on their characters. Updates to the character's wiki are appreciated as it will help us for new sessions.
 
 ## I have thoughts that I would prefer to share anonymously
 
