@@ -48,13 +48,13 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 
 ## How to start a character
 
-1. See the character creation guidelines (coming soon) for building a character.
-
-2. Submit [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER). A game master will work with you in the comments to sort out any character building questions and issues.
-
-3. After that's is completed and approved, [create a wiki page](https://github.com/our-stories/west-marches/wiki/_new) with your character information.
+Submit [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER) and workthrough the checklist. The community is here to help in the comments to sort out any character building questions and issues.
 
 You are welcome to create as many characters as you would like, but you can only choose a single character for each session.
+See also:
+- [Character creation guidelines](character%20creation%20guidelines.md)
+- [Character wiki page outline](character%20wiki%20page%20outline.md)
+- [Step by step characters](step%20by%20step%20characters.md)
 
 ## How to schedule a session
 
