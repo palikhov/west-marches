@@ -16,6 +16,12 @@ In order to avoid any misunderstandings, these are the expectations for all peop
 4. **Have fun.** This game is about exploring imagination. Have fun with it.
 5. **Share the spotlight.** It is easy to lose sight that this is a game of cooperation. Every character brings something unique to the party, and we should embrace and encourage that.
 
+## How to get started
+
+1. Join us on [discord](https://discord.gg/m8fu5US)
+2. Create a [character](https://ourstories.connectionrequired.com/c/characters/6)
+3. Schedule a [game](https://ourstories.connectionrequired.com/c/games/5) (either GMs OR Players can organize a game)
+
 ## Setting: Waldenstone
 
 _This game takes place in a homebrew territory within [Exandria](https://criticalrole.fandom.com/wiki/Exandria) from [Critical Role](https://critrole.com/)._
