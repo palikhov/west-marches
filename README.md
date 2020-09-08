@@ -40,7 +40,7 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 
 * **What is the tone?** Of all the questions, this is the most important one. The **tone for this game is to have fun!** Fun doesn't not always mean silliness. It does not always mean stressful deadly situations. But it can mean both sometimes. The tone will need to be decided in every session because it's up to the party to decide. As a GM, I prefer to take this lighthearted to start with. We are here to have fun, so let's have fun. Seriousness will come in time, if it ever does.
 * **What's the primary setting, location and adventure type?** This is set in a frontier town cut off from many external connections. The surrounding area is wild and ruthless.
-* **How are the party members connected?** That's up to you dear Players! YOU decide who and why you are connected. In the beginning of each session, that will be something a GM asks the party to figure out in the issue before we meet.
+* **How are the party members connected?** That's up to you dear Players! YOU decide who and why you are connected. In the beginning of each session, that will be something a GM asks the party to figure out in the session thread before the group meets.
 * **What's magic like in the setting?** Magic is not unheard of. But it is not so common that a magical item is a treasured heirloom. Magic users do exist and setup shops and research facilities across the world. Waldenstone has fewer options...for now.
 * **How old is the world?** Waldenstone lives in an ancient world. Many long lived races remember legendary civilizations that have long since perished. And yet, they have heard the myths of many more that have long been forgotten to even their forebears.
 * **What is the scale of the game?** This is really open ended. The nature of a West Marches game does lend itself to be centered around Waldenstone. This is not a normal campaign that has the luxury to delve into nuanced areas...Yet. Perhaps it will change.
@@ -48,7 +48,7 @@ The Wilderness has begun stirring. And although the sensible townsfolk keep watc
 
 ## How to start a character
 
-Submit [a character issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=character%2Cunapproved&template=character.md&title=Character%3A+NAME+OF+CHARACTER) and workthrough the checklist. The community is here to help in the comments to sort out any character building questions and issues.
+Start a [character threads](https://ourstories.connectionrequired.com/c/characters/6). Take a look at other character threads for reference. The community is here to help in the comments to sort out any character building questions and issues.
 
 You are welcome to create as many characters as you would like, but you can only choose a single character for each session.
 See also:
@@ -58,16 +58,16 @@ See also:
 
 ## How to schedule a session
 
-Each session will need to be scheduled. For every session, a player in the party should [begin a session issue](https://github.com/our-stories/west-marches/issues/new?assignees=&labels=session&template=session.md&title=Session%3A+SOMETHING+WITTY) filling out as many details as possible.
+Each session will need to be scheduled. For every session, a player in the party should [begin a game thread](https://ourstories.connectionrequired.com/c/games/5) filling out as many details as possible.
 
-Each session can only have between 2-4 players (excluding the Game Master). Once the scheduling details are sorted out, the Game Master will offer a couple places for explorations. If this is the first time the characters have met each other, the party can use the issue comments to role play introductions. That way we can dive into the exploration early in the session.
+Each game should aim for 2-4 players (excluding the Game Master), but is entirely up to the Game Master's discretion and comfort. The Game Master or Players should offer a couple places for explorations. If this is the first time the characters have met each other, the party can use the thread to role play introductions. That way they can dive into the exploration early in the session.
 
 If the party is scheduling a continuation from a previous session, include a link and details where the party left off. Continuations do not need the same party composition as long as 2/3rd of players from the previous session are okay with it continuing.
 
 Expectations for a session:
 
 * **Be 15 minutes early.** This helps the party start on time. It's also fun to break the ice. The game will go a lot smoother.
-* **Video chat is required.** We will use audio **and** video for our session.
+* **Video chat is required.** We will use audio **and** video for our games.
 
 ## After a session ends
 
@@ -87,7 +87,7 @@ I would love help! The more the players engage, the better the games will be!
 
 There are many ways to contribute. You don't need to ask permission, just dive in.
 
-* **World building:** cities, lore, races, legends, factions, big bad evil people. If you would like to help by creating any of these, submit an issue and we'll talk it over!
+* **World building:** cities, lore, races, legends, factions, big bad evil people. If you would like to help by creating any of these, start a [lore thread](https://ourstories.connectionrequired.com/c/lore/8) and we'll talk it over!
 * **Exploration:** where will the party explore? Why? Who or what will they need to overcome?
 * **Battlemaps:** sharing battlemaps, custom made or found are always welcome!
 * **In game role playing:** perhaps you would like to RP as an NPC interating with the party? Or perhaps you would like to narrate the hits and misses. If this sounds like fun, let me know at the beginning of the session.
